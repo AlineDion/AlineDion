@@ -1,7 +1,7 @@
 # Olá! Eu sou Aline
 
 ## Um pouco sobre mim
-Apaixonada por negócios e tecnologia, comecei a estudar sobre a área de dados em 2023 e venho aprimorando minhas habilidades desde então. Atualmente, estou graduando em Administração e estagiando em Gestão de Dados.
+Apaixonada por negócios e tecnologia, comecei a estudar sobre a área de dados e venho aprimorando minhas habilidades desde então. Atualmente, estou graduando em Administração e estagiando em Gestão de Dados.
 
 
 ## Habilidades
