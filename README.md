@@ -1,7 +1,7 @@
-# Olá! Eu sou Aline
+# Olá! Eu sou Aline Dionizio
 
 ## Um pouco sobre mim
-Apaixonada por negócios e tecnologia, comecei a estudar sobre a área de dados e venho aprimorando minhas habilidades desde então. Atualmente, estou graduando em Administração e estagiando em Gestão de Dados.
+Apaixonada por negócios e tecnologia, comecei a estudar a área de dados e, desde então, venho aprimorando minhas habilidades. Sou graduanda em Análise e Desenvolvimento de Sistemas e estou concluindo o último período do curso de Administração. Atualmente, atuo como Auxiliar de Auditoria, Riscos e Compliance, em uma área focada em análise de dados e riscos internos.
 
 
 ## Habilidades
