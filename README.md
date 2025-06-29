@@ -3,7 +3,7 @@
 ## Um pouco sobre mim
 📚 Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de gerar valor por meio de informações claras e confiáveis. Estou no último período de Administração e curso Análise e Desenvolvimento de Sistemas, o que fortalece minha visão analítica e sistêmica na estruturação de dados.
 
-🎲 Atualmente, atuo em uma equipe focada em governança de dados e redução de riscos, onde trabalho com auditorias e análises exploratórias. Este ano, participei da Jornada de Dados da Laboratória, aprofundando habilidades em SQL, ETL, Python e Power BI para preparar e estruturar grandes volumes de dados.
+🎲 Atualmente, atuo em uma equipe focada em governança de dados e redução de riscos, onde trabalho com auditorias e análises exploratórias. Participo da Jornada de Dados da Laboratória, onde aprofundo minhas habilidades em SQL, ETL, Python e Power BI para preparar e estruturar grandes volumes de dados.
 
 🎯 Tenho focado em evoluir minhas habilidades em engenharia de dados, criando pipelines eficientes e garantindo dados limpos e acessíveis para aplicações analíticas. Aqui compartilho projetos que refletem meu aprendizado e meu interesse em desenvolver soluções que impulsionem resultados com dados bem estruturados.
 
