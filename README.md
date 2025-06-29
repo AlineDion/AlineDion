@@ -9,7 +9,6 @@ Tenho focado em evoluir minhas habilidades em engenharia de dados, criando pipel
 
 
 ## Habilidades
-O que estou estudando atualmente:
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -24,8 +23,6 @@ O que estou estudando atualmente:
 ## GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineDion&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDion&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&icon_color=30A3DC)
 
 
 ## Conecte-se comigo
