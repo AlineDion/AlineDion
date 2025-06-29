@@ -10,13 +10,15 @@ Tenho focado em evoluir minhas habilidades em engenharia de dados, criando pipel
 
 ## Habilidades
 
+O que estou aprimorando no momento:
+
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi&logoColor=yellow)
-![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-000?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-000?style=for-the-badge&logo=googlecolab&logoColor=yellow)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-000?style=for-the-badge&logo=data&logoColor=white)
 
 
