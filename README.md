@@ -1,11 +1,9 @@
 # Olá! Eu sou Aline Dionizio
 
 ## Um pouco sobre mim
-📚 Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de gerar valor por meio de informações claras e confiáveis. Estou no último período de Administração e curso Análise e Desenvolvimento de Sistemas, o que fortalece minha visão analítica e sistêmica na estruturação de dados.
+🎲 Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de gerar valor por meio de informações claras e confiáveis. Estou no último período de Administração e curso **Análise e Desenvolvimento de Sistemas**, o que fortalece minha visão analítica e sistêmica. 
 
-🎲 Atualmente, atuo em uma equipe focada redução de riscos e gestão de dados, onde trabalho com auditorias e análises exploratórias. Participo da Jornada de Dados da Laboratória, onde aprofundo minhas habilidades em SQL, ETL, Python e Power BI para preparar e estruturar grandes volumes de dados.
-
-🎯 Tenho focado em evoluir minhas habilidades, criando pipelines eficientes e garantindo dados limpos e acessíveis para aplicações analíticas. Aqui compartilho projetos que refletem meu aprendizado e meu interesse em desenvolver soluções que impulsionem resultados com dados bem estruturados.
+🎯 Entusiasta em engenharia de dados, tenho me dedicado a evoluir minhas habilidades, criando fluxos de dados eficientes e garantindo dados limpos e acessíveis para aplicações analíticas. Aqui, compartilho projetos que refletem meu aprendizado e meu interesse em desenvolver soluções que impulsionem resultados por meio de dados bem estruturados.
 
 
 ## Habilidades
@@ -30,6 +28,5 @@
 ## Conecte-se comigo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aline-dionizio/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlineDion)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinedioniziosilva@outlook.com)
 
