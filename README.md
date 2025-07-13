@@ -1,4 +1,4 @@
-# Olá! Eu sou Aline Dionizio
+# Olá! Eu sou Aline Dionizio 👋
 
 ## Um pouco sobre mim
 🎲 Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de gerar valor por meio de informações claras e confiáveis. Estou no último período de Administração e curso **Análise e Desenvolvimento de Sistemas**, o que fortalece minha visão analítica e sistêmica. 
