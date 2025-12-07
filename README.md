@@ -10,7 +10,7 @@ Bem-vindo(a)! Como estudante de tecnologia e apaixonada pela área de Dados, uti
 
 ## Habilidades
 
-👩‍💻 Conhecimentos técnicos que estou aprimorando atualmente:
+- Conhecimentos técnicos que estou aprimorando atualmente:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff)
