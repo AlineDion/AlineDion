@@ -17,12 +17,8 @@ Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![ETL](https://img.shields.io/badge/ETL-1E3A8A?style=for-the-badge&logo=data&logoColor=ffffff)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=ffffff)
-<!-- AWS: diferenciando por serviço, usando tons oficiais do AWS Design System -->
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-F7B500?style=for-the-badge&logo=amazon-s3&logoColor=black)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FE6A16?style=for-the-badge&logo=aws-lambda&logoColor=ffffff)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=ffffff)
 
 ## GitHub Status
