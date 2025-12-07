@@ -1,8 +1,8 @@
-# Olá! Eu sou Aline Dionizio 👋
+# Olá! Eu sou Aline Dionizio
 
 Bem-vindo(a)! Como estudante de tecnologia e apaixonada pela área de Dados, utilizo este espaço para documentar meus estudos, experimentar novas ferramentas e compartilhar os projetos que desenvolvo ao longo da minha jornada.
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 👩‍💻 Curso Análise e Desenvolvimento de Sistemas  
 🔄 Atualmente em transição para Engenharia de Dados  
@@ -28,5 +28,5 @@ Bem-vindo(a)! Como estudante de tecnologia e apaixonada pela área de Dados, uti
 
 ## Conecte-se comigo 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aline-dionizio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-dionizio/)
 
