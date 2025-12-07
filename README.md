@@ -5,7 +5,7 @@ Bem-vindo(a)! Como estudante de tecnologia e apaixonada pela área de Dados, uti
 ## Sobre Mim
 
 👩‍💻 Curso Análise e Desenvolvimento de Sistemas  
-🔄 Atualmente em transição para Engenharia de Dados  
+🔄 Atualmente em transição de carreira para Engenharia de Dados  
 🎓 Graduada em Administração
 
 ## Habilidades
