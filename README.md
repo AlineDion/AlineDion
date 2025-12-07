@@ -1,10 +1,12 @@
 # Olá! Eu sou Aline Dionizio 👋
 
-## Um pouco sobre mim
-Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de gerar valor por meio de informações claras e confiáveis. Curso **Análise e Desenvolvimento de Sistemas**, o que fortalece minha visão analítica e sistêmica. 
+Bem-vindo(a)! Como estudante de tecnologia e apaixonada pela área de Dados, utilizo este espaço para documentar meus estudos, experimentar novas ferramentas e compartilhar os projetos que desenvolvo ao longo da minha jornada.
 
-🎯 Entusiasta em engenharia de dados, tenho me dedicado a evoluir minhas habilidades, criando fluxos de dados eficientes e garantindo dados limpos e acessíveis para aplicações analíticas. Aqui, compartilho projetos que refletem meu aprendizado e meu interesse em desenvolver soluções que impulsionem resultados por meio de dados bem estruturados.
+## 🧠 Sobre Mim
 
+👩‍💻 Curso Análise e Desenvolvimento de Sistemas
+🔄 Atualmente em transição para Engenharia de Dados
+🎓 Graduada em Administração
 
 ## Habilidades
 
@@ -23,8 +25,7 @@ Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de 
 
 ## GitHub Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDion&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&icon_color=30A3DC)
-
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AlineDion&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
 ## Conecte-se comigo 
 
