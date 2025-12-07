@@ -1,24 +1,29 @@
 # Olá! Eu sou Aline Dionizio 👋
 
 ## Um pouco sobre mim
-🎲 Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de gerar valor por meio de informações claras e confiáveis. Estou no último período de Administração e curso **Análise e Desenvolvimento de Sistemas**, o que fortalece minha visão analítica e sistêmica. 
+Apaixonada por negócios e tecnologia, encontrei na área de dados uma forma de gerar valor por meio de informações claras e confiáveis. Curso **Análise e Desenvolvimento de Sistemas**, o que fortalece minha visão analítica e sistêmica. 
 
 🎯 Entusiasta em engenharia de dados, tenho me dedicado a evoluir minhas habilidades, criando fluxos de dados eficientes e garantindo dados limpos e acessíveis para aplicações analíticas. Aqui, compartilho projetos que refletem meu aprendizado e meu interesse em desenvolver soluções que impulsionem resultados por meio de dados bem estruturados.
 
 
 ## Habilidades
 
-👩‍💻 O que estou aprimorando no momento:
+👩‍💻 Conhecimentos técnicos que estou aprimorando atualmente:
 
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi&logoColor=yellow)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-000?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-000?style=for-the-badge&logo=googlecolab&logoColor=yellow)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-000?style=for-the-badge&logo=data&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![ETL](https://img.shields.io/badge/ETL-1E3A8A?style=for-the-badge&logo=data&logoColor=ffffff)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=ffffff)
+<!-- AWS: diferenciando por serviço, usando tons oficiais do AWS Design System -->
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-F7B500?style=for-the-badge&logo=amazon-s3&logoColor=black)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FE6A16?style=for-the-badge&logo=aws-lambda&logoColor=ffffff)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=ffffff)
 
 ## GitHub Status
 
@@ -28,5 +33,4 @@
 ## Conecte-se comigo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aline-dionizio/)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinedioniziosilva@outlook.com)
 
